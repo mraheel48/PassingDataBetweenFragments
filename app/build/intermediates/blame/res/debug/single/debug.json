@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\other\\journaldev-master\\Android\\PassingDataBetweenFragments\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\other\\journaldev-master\\Android\\PassingDataBetweenFragments\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\other\\journaldev-master\\Android\\PassingDataBetweenFragments\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\other\\journaldev-master\\Android\\PassingDataBetweenFragments\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\other\\journaldev-master\\Android\\PassingDataBetweenFragments\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\other\\journaldev-master\\Android\\PassingDataBetweenFragments\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\other\\journaldev-master\\Android\\PassingDataBetweenFragments\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\other\\journaldev-master\\Android\\PassingDataBetweenFragments\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\other\\journaldev-master\\Android\\PassingDataBetweenFragments\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_two.xml.flat",
+        "source": "D:\\other\\journaldev-master\\Android\\PassingDataBetweenFragments\\app\\src\\main\\res\\layout\\fragment_two.xml"
+    },
+    {
+        "merged": "D:\\other\\journaldev-master\\Android\\PassingDataBetweenFragments\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\other\\journaldev-master\\Android\\PassingDataBetweenFragments\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\other\\journaldev-master\\Android\\PassingDataBetweenFragments\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\other\\journaldev-master\\Android\\PassingDataBetweenFragments\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\other\\journaldev-master\\Android\\PassingDataBetweenFragments\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\other\\journaldev-master\\Android\\PassingDataBetweenFragments\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\other\\journaldev-master\\Android\\PassingDataBetweenFragments\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\other\\journaldev-master\\Android\\PassingDataBetweenFragments\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\other\\journaldev-master\\Android\\PassingDataBetweenFragments\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_one.xml.flat",
+        "source": "D:\\other\\journaldev-master\\Android\\PassingDataBetweenFragments\\app\\src\\main\\res\\layout\\fragment_one.xml"
+    },
+    {
+        "merged": "D:\\other\\journaldev-master\\Android\\PassingDataBetweenFragments\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\other\\journaldev-master\\Android\\PassingDataBetweenFragments\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\other\\journaldev-master\\Android\\PassingDataBetweenFragments\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\other\\journaldev-master\\Android\\PassingDataBetweenFragments\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\other\\journaldev-master\\Android\\PassingDataBetweenFragments\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\other\\journaldev-master\\Android\\PassingDataBetweenFragments\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]
